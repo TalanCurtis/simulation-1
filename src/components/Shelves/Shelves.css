@@ -1,10 +1,11 @@
 .shelf{
+    text-decoration: none;
     background-color: #D34735;
     height: 60px;
     width: 400px;
     border-radius: 4px;
-    margin: 10px;
+    margin: 6px;
     display: flex;
+    padding-left: 16px;
     align-items: center;
-    padding-left: 60px;
 }
